@@ -2,5 +2,6 @@ This is intended to teach my lovely girl to program
 
 I love you, Jane. Let's work together!
 
-creating new branch is simple AND smart
+
+creating new branch is simple and smart
 
